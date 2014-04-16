@@ -1,0 +1,8 @@
+c:\users\cegisele\documents\visual studio 2010\Projects\Tercera Clase\Tercera Clase\bin\Debug\Tercera Clase.exe
+c:\users\cegisele\documents\visual studio 2010\Projects\Tercera Clase\Tercera Clase\bin\Debug\Tercera Clase.pdb
+c:\users\cegisele\documents\visual studio 2010\Projects\Tercera Clase\Tercera Clase\obj\x86\Debug\Tercera Clase.exe
+c:\users\cegisele\documents\visual studio 2010\Projects\Tercera Clase\Tercera Clase\obj\x86\Debug\Tercera Clase.pdb
+C:\Users\CeGisele\PW3-2014\TerceraClase\Tercera Clase\obj\x86\Debug\Tercera Clase.exe
+C:\Users\CeGisele\PW3-2014\TerceraClase\Tercera Clase\obj\x86\Debug\Tercera Clase.pdb
+C:\Users\CeGisele\PW3-2014\TerceraClase\Tercera Clase\bin\Debug\Tercera Clase.exe
+C:\Users\CeGisele\PW3-2014\TerceraClase\Tercera Clase\bin\Debug\Tercera Clase.pdb
