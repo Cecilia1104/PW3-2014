@@ -1,0 +1,4 @@
+c:\users\cegisele\documents\visual studio 2010\Projects\CuartaClase\CuartaClase\bin\CuartaClase.dll
+c:\users\cegisele\documents\visual studio 2010\Projects\CuartaClase\CuartaClase\bin\CuartaClase.pdb
+c:\users\cegisele\documents\visual studio 2010\Projects\CuartaClase\CuartaClase\obj\Debug\CuartaClase.dll
+c:\users\cegisele\documents\visual studio 2010\Projects\CuartaClase\CuartaClase\obj\Debug\CuartaClase.pdb
