@@ -13,8 +13,7 @@
         <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtIngresar"
             ErrorMessage="*Campo obligatorio"></asp:RequiredFieldValidator>
         <br />
-        <asp:DropDownList ID="ddlPaises" runat="server" OnSelectedIndexChanged="ddlPaises_SelectedIndexChanged"
-            AutoPostBack="True">
+        <asp:DropDownList ID="ddlPaises" runat="server" OnSelectedIndexChanged="ddlPaises_SelectedIndexChanged" AutoPostBack="true"><%--Detalle del AutoPostTrue--%>
             <asp:ListItem Text="Seleccionar" Value="0">Seleccione una opcion</asp:ListItem>
             <asp:ListItem Text="Argentina" Value="1">Argentina</asp:ListItem>
             <asp:ListItem Text="Brasil" Value="2">Brasil</asp:ListItem>
