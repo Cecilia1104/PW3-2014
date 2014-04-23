@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Agrupacion"  description="Agrupacion de paginas 1 y 2">
+    <siteMapNode url="/AgrupacionPaginas/WebForm1.aspx" title="Web Form1"  description="" />
+    <siteMapNode url="/AgrupacionPaginas/WebForm2.aspx" title="Web Form2"  description="" />
+    <siteMapNode url="/AgrupacionPaginas/WebForm3.aspx" title="Web Form3"  description="" />
+    <siteMapNode url="/AgrupacionPaginas/WebForm4.aspx" title="Web Form4"  description="" />
+  </siteMapNode>
+</siteMap>
