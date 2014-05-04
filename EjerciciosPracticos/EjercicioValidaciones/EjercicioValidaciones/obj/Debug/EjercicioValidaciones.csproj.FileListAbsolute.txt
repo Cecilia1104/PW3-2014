@@ -1,0 +1,4 @@
+c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioValidaciones\EjercicioValidaciones\bin\EjercicioValidaciones.dll
+c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioValidaciones\EjercicioValidaciones\bin\EjercicioValidaciones.pdb
+c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioValidaciones\EjercicioValidaciones\obj\Debug\EjercicioValidaciones.dll
+c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioValidaciones\EjercicioValidaciones\obj\Debug\EjercicioValidaciones.pdb
