@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Base.Master" AutoEventWireup="true" CodeBehind="Simple.master.cs"
+    Inherits="EjercicioMasterPages.Simple" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentSimpleEnBase" runat="server"><!--Este es el que tiene Base para Simple-->
+    <asp:ContentPlaceHolder ID="ContentSimple" runat="server"><!--Este es propio de Simple-->
+    </asp:ContentPlaceHolder>
+ Esta es la master Simple - Primer herencia.
+</asp:Content>
+
+
+

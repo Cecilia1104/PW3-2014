@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Base.master.cs" Inherits="EjercicioMasterPages.Base" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Master Page Anidadas</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <asp:ContentPlaceHolder ID="ContentSimpleEnBase" runat="server"><!--Aca ponemos el Content que hace referencia a Simple-->
+    <asp:ContentPlaceHolder ID="ContentDosColumnasEnBase" runat="server"> <!--Aca ponemos el content que hace referencia a DosColumnas-->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"><!--Este es propio de Base-->
+        </asp:ContentPlaceHolder>
+    </asp:ContentPlaceHolder>
+    </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

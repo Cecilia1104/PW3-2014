@@ -1,0 +1,5 @@
+c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioMasterPages\EjercicioMasterPages\bin\EjercicioMasterPages.dll
+c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioMasterPages\EjercicioMasterPages\bin\EjercicioMasterPages.pdb
+c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioMasterPages\EjercicioMasterPages\obj\Debug\EjercicioMasterPages.dll
+c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioMasterPages\EjercicioMasterPages\obj\Debug\EjercicioMasterPages.pdb
+C:\Users\CeGisele\documents\visual studio 2010\Projects\EjercicioMasterPages\EjercicioMasterPages\obj\Debug\EjercicioMasterPages.csprojResolveAssemblyReference.cache
