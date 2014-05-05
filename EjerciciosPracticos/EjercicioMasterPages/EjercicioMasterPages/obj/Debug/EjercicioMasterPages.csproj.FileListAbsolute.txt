@@ -3,3 +3,8 @@ c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioMasterPages\Eje
 c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioMasterPages\EjercicioMasterPages\obj\Debug\EjercicioMasterPages.dll
 c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioMasterPages\EjercicioMasterPages\obj\Debug\EjercicioMasterPages.pdb
 C:\Users\CeGisele\documents\visual studio 2010\Projects\EjercicioMasterPages\EjercicioMasterPages\obj\Debug\EjercicioMasterPages.csprojResolveAssemblyReference.cache
+C:\Users\CeGisele\PW3-2014\EjerciciosPracticos\EjercicioMasterPages\EjercicioMasterPages\bin\EjercicioMasterPages.dll
+C:\Users\CeGisele\PW3-2014\EjerciciosPracticos\EjercicioMasterPages\EjercicioMasterPages\bin\EjercicioMasterPages.pdb
+C:\Users\CeGisele\PW3-2014\EjerciciosPracticos\EjercicioMasterPages\EjercicioMasterPages\obj\Debug\EjercicioMasterPages.csprojResolveAssemblyReference.cache
+C:\Users\CeGisele\PW3-2014\EjerciciosPracticos\EjercicioMasterPages\EjercicioMasterPages\obj\Debug\EjercicioMasterPages.dll
+C:\Users\CeGisele\PW3-2014\EjerciciosPracticos\EjercicioMasterPages\EjercicioMasterPages\obj\Debug\EjercicioMasterPages.pdb

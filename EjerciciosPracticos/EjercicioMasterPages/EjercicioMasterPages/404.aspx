@@ -2,6 +2,6 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-Ups, la página que busca no ha sido encontrada.
+<h1>Ups, la página que busca no ha sido encontrada.</h1>
 </asp:Content>
 
