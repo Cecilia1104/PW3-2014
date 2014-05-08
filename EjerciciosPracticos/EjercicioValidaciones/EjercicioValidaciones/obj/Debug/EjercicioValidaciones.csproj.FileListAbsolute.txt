@@ -2,3 +2,7 @@ c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioValidaciones\Ej
 c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioValidaciones\EjercicioValidaciones\bin\EjercicioValidaciones.pdb
 c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioValidaciones\EjercicioValidaciones\obj\Debug\EjercicioValidaciones.dll
 c:\users\cegisele\documents\visual studio 2010\Projects\EjercicioValidaciones\EjercicioValidaciones\obj\Debug\EjercicioValidaciones.pdb
+C:\Users\CeGisele\PW3-2014\EjerciciosPracticos\EjercicioValidaciones\EjercicioValidaciones\bin\EjercicioValidaciones.dll
+C:\Users\CeGisele\PW3-2014\EjerciciosPracticos\EjercicioValidaciones\EjercicioValidaciones\bin\EjercicioValidaciones.pdb
+C:\Users\CeGisele\PW3-2014\EjerciciosPracticos\EjercicioValidaciones\EjercicioValidaciones\obj\Debug\EjercicioValidaciones.dll
+C:\Users\CeGisele\PW3-2014\EjerciciosPracticos\EjercicioValidaciones\EjercicioValidaciones\obj\Debug\EjercicioValidaciones.pdb

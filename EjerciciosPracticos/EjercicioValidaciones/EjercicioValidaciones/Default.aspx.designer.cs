@@ -13,22 +13,22 @@ namespace EjercicioValidaciones {
     public partial class _Default {
         
         /// <summary>
-        /// Control lblusuario.
+        /// Control lblUsuario.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblusuario;
+        protected global::System.Web.UI.WebControls.Label lblUsuario;
         
         /// <summary>
-        /// Control txtusuario.
+        /// Control txtUsuario.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtusuario;
+        protected global::System.Web.UI.WebControls.TextBox txtUsuario;
         
         /// <summary>
         /// Control RequiredFieldValidator1.
@@ -40,22 +40,22 @@ namespace EjercicioValidaciones {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
         
         /// <summary>
-        /// Control lbldni.
+        /// Control lblDni.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbldni;
+        protected global::System.Web.UI.WebControls.Label lblDni;
         
         /// <summary>
-        /// Control txtdni.
+        /// Control txtDni.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtdni;
+        protected global::System.Web.UI.WebControls.TextBox txtDni;
         
         /// <summary>
         /// Control RequiredFieldValidator3.
@@ -76,22 +76,22 @@ namespace EjercicioValidaciones {
         protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator2;
         
         /// <summary>
-        /// Control lblmail.
+        /// Control lblMail.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblmail;
+        protected global::System.Web.UI.WebControls.Label lblMail;
         
         /// <summary>
-        /// Control txtmail.
+        /// Control txtMail.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtmail;
+        protected global::System.Web.UI.WebControls.TextBox txtMail;
         
         /// <summary>
         /// Control RegularExpressionValidator1.
@@ -103,13 +103,13 @@ namespace EjercicioValidaciones {
         protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator1;
         
         /// <summary>
-        /// Control ddlactividad.
+        /// Control ddlActividad.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlactividad;
+        protected global::System.Web.UI.WebControls.DropDownList ddlActividad;
         
         /// <summary>
         /// Control RequiredFieldValidator4.
@@ -121,22 +121,22 @@ namespace EjercicioValidaciones {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator4;
         
         /// <summary>
-        /// Control lbledad.
+        /// Control lblEdad.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbledad;
+        protected global::System.Web.UI.WebControls.Label lblEdad;
         
         /// <summary>
-        /// Control txtedad.
+        /// Control txtEdad.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtedad;
+        protected global::System.Web.UI.WebControls.TextBox txtEdad;
         
         /// <summary>
         /// Control RangeValidator1.
@@ -148,22 +148,22 @@ namespace EjercicioValidaciones {
         protected global::System.Web.UI.WebControls.RangeValidator RangeValidator1;
         
         /// <summary>
-        /// Control lblcontraseña.
+        /// Control lblContraseña.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblcontraseña;
+        protected global::System.Web.UI.WebControls.Label lblContraseña;
         
         /// <summary>
-        /// Control txtcontraseña.
+        /// Control txtContraseña.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtcontraseña;
+        protected global::System.Web.UI.WebControls.TextBox txtContraseña;
         
         /// <summary>
         /// Control RequiredFieldValidator5.
@@ -175,22 +175,22 @@ namespace EjercicioValidaciones {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator5;
         
         /// <summary>
-        /// Control lblrepetircontraseña.
+        /// Control lblRepetircontraseña.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblrepetircontraseña;
+        protected global::System.Web.UI.WebControls.Label lblRepetircontraseña;
         
         /// <summary>
-        /// Control txtrepetircontraseña.
+        /// Control txtRepetircontraseña.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtrepetircontraseña;
+        protected global::System.Web.UI.WebControls.TextBox txtRepetircontraseña;
         
         /// <summary>
         /// Control CompareValidator1.
@@ -220,13 +220,13 @@ namespace EjercicioValidaciones {
         protected global::System.Web.UI.WebControls.Button btn;
         
         /// <summary>
-        /// Control lblexito.
+        /// Control lblExito.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblexito;
+        protected global::System.Web.UI.WebControls.Label lblExito;
         
         /// <summary>
         /// Control lblusu.

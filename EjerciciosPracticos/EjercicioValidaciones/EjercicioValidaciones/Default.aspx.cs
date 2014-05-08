@@ -18,7 +18,7 @@ namespace EjercicioValidaciones
         {
             if (Page.IsValid)
             {
-                lblexito.Text = "<h2>Formulario completado correctamente</h2>";
+                lblExito.Text = "<h2>Formulario completado correctamente</h2>";
             }
 
         }
