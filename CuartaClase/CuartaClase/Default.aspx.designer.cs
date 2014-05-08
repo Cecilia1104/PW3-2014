@@ -13,22 +13,22 @@ namespace CuartaClase {
     public partial class _Default {
         
         /// <summary>
-        /// Control ddlpaises.
+        /// Control ddlPaises.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlpaises;
+        protected global::System.Web.UI.WebControls.DropDownList ddlPaises;
         
         /// <summary>
-        /// Control txtcolor.
+        /// Control txtColor.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtcolor;
+        protected global::System.Web.UI.WebControls.TextBox txtColor;
         
         /// <summary>
         /// Control btnguardar.
@@ -40,12 +40,12 @@ namespace CuartaClase {
         protected global::System.Web.UI.WebControls.Button btnguardar;
         
         /// <summary>
-        /// Control LabelColorElegido.
+        /// Control labelColorElegido.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelColorElegido;
+        protected global::System.Web.UI.WebControls.Label labelColorElegido;
     }
 }

@@ -20,13 +20,13 @@ namespace CuartaClase
 
         private void cargar_paises()
         {
-            ddlpaises.Items.Clear();
-            ddlpaises.Items.Add("Arg");
-            ddlpaises.Items.Add("Bolivia");
+            ddlPaises.Items.Clear();
+            ddlPaises.Items.Add("Arg");
+            ddlPaises.Items.Add("Bolivia");
         }
         protected void btnguardar_Click(object sender, EventArgs e)
         {
-            LabelColorElegido.Text = txtcolor.Text + " " + ddlpaises.SelectedItem.Text;
+            labelColorElegido.Text = txtColor.Text + " " + ddlPaises.SelectedItem.Text;
         }
         protected void ddlpaises_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -38,8 +38,8 @@ namespace CuartaClase
             List<String> items = new List<string>();
             items.Add("Holanda");
             items.Add("Italia");
-            ddlpaises.DataSource = items;
-            ddlpaises.DataBind();
+            ddlPaises.DataSource = items;
+            ddlPaises.DataBind();
         }
     }
 }
