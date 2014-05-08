@@ -5,3 +5,10 @@ c:\users\cegisele\documents\visual studio 2010\Projects\Validaciones\Validacione
 C:\Users\CeGisele\Documents\Visual Studio 2010\Projects\Validaciones\Validaciones\obj\Debug\Validaciones.csprojResolveAssemblyReference.cache
 C:\Users\CeGisele\Documents\Visual Studio 2010\Projects\Validaciones\Validaciones\bin\ClassLibrary1.dll
 C:\Users\CeGisele\Documents\Visual Studio 2010\Projects\Validaciones\Validaciones\bin\ClassLibrary1.pdb
+C:\Users\CeGisele\PW3-2014\Validaciones\Validaciones\bin\Validaciones.dll
+C:\Users\CeGisele\PW3-2014\Validaciones\Validaciones\bin\Validaciones.pdb
+C:\Users\CeGisele\PW3-2014\Validaciones\Validaciones\bin\ClassLibrary1.dll
+C:\Users\CeGisele\PW3-2014\Validaciones\Validaciones\bin\ClassLibrary1.pdb
+C:\Users\CeGisele\PW3-2014\Validaciones\Validaciones\obj\Debug\Validaciones.csprojResolveAssemblyReference.cache
+C:\Users\CeGisele\PW3-2014\Validaciones\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\CeGisele\PW3-2014\Validaciones\Validaciones\obj\Debug\Validaciones.pdb

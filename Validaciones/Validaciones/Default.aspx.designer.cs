@@ -13,22 +13,22 @@ namespace Validaciones {
     public partial class _Default {
         
         /// <summary>
-        /// Control lbltitular.
+        /// Control lblTitular.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbltitular;
+        protected global::System.Web.UI.WebControls.Label lblTitular;
         
         /// <summary>
-        /// Control txttitular.
+        /// Control txtTitular.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txttitular;
+        protected global::System.Web.UI.WebControls.TextBox txtTitular;
         
         /// <summary>
         /// Control RequiredFieldValidator1.
@@ -49,22 +49,22 @@ namespace Validaciones {
         protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator2;
         
         /// <summary>
-        /// Control lbldni.
+        /// Control lblDni.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lbldni;
+        protected global::System.Web.UI.WebControls.Label lblDni;
         
         /// <summary>
-        /// Control txtdni.
+        /// Control txtDni.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtdni;
+        protected global::System.Web.UI.WebControls.TextBox txtDni;
         
         /// <summary>
         /// Control RequiredFieldValidator2.
@@ -85,22 +85,22 @@ namespace Validaciones {
         protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidator1;
         
         /// <summary>
-        /// Control lblrepetirdni.
+        /// Control lblRepetirdni.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblrepetirdni;
+        protected global::System.Web.UI.WebControls.Label lblRepetirdni;
         
         /// <summary>
-        /// Control txtrepetirdni.
+        /// Control txtRepetirdni.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtrepetirdni;
+        protected global::System.Web.UI.WebControls.TextBox txtRepetirdni;
         
         /// <summary>
         /// Control RequiredFieldValidator3.
@@ -121,22 +121,22 @@ namespace Validaciones {
         protected global::System.Web.UI.WebControls.CompareValidator CompareValidator1;
         
         /// <summary>
-        /// Control lblfecha.
+        /// Control lblFecha.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblfecha;
+        protected global::System.Web.UI.WebControls.Label lblFecha;
         
         /// <summary>
-        /// Control txtfecha.
+        /// Control txtFecha.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtfecha;
+        protected global::System.Web.UI.WebControls.TextBox txtFecha;
         
         /// <summary>
         /// Control RequiredFieldValidator4.
@@ -157,22 +157,22 @@ namespace Validaciones {
         protected global::System.Web.UI.WebControls.RangeValidator RangeValidator1;
         
         /// <summary>
-        /// Control lblcopias.
+        /// Control lblCopias.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblcopias;
+        protected global::System.Web.UI.WebControls.Label lblCopias;
         
         /// <summary>
-        /// Control ddlcopias.
+        /// Control ddlCopias.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlcopias;
+        protected global::System.Web.UI.WebControls.DropDownList ddlCopias;
         
         /// <summary>
         /// Control RequiredFieldValidator5.
@@ -184,22 +184,22 @@ namespace Validaciones {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator5;
         
         /// <summary>
-        /// Control lblcomentario.
+        /// Control lblComentario.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblcomentario;
+        protected global::System.Web.UI.WebControls.Label lblComentario;
         
         /// <summary>
-        /// Control txtcomentario.
+        /// Control txtComentario.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtcomentario;
+        protected global::System.Web.UI.WebControls.TextBox txtComentario;
         
         /// <summary>
         /// Control CustomValidator1.
